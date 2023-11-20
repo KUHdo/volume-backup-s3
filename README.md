@@ -1,4 +1,4 @@
-# Volume backup s3
+# Docker Volume backup s3
 
 Small sidecar container based on minio command line image package to create volume backups to s3 buckets.
 
